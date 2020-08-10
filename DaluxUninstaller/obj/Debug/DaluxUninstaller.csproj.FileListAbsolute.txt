@@ -1,0 +1,11 @@
+D:\Documents\Programming\C#\DaluxUninstaller\DaluxUninstaller\bin\Debug\DaluxUninstaller.exe.config
+D:\Documents\Programming\C#\DaluxUninstaller\DaluxUninstaller\bin\Debug\DaluxUninstaller.exe
+D:\Documents\Programming\C#\DaluxUninstaller\DaluxUninstaller\bin\Debug\DaluxUninstaller.pdb
+D:\Documents\Programming\C#\DaluxUninstaller\DaluxUninstaller\obj\Debug\DaluxUninstaller.csprojAssemblyReference.cache
+D:\Documents\Programming\C#\DaluxUninstaller\DaluxUninstaller\obj\Debug\DaluxUninstaller.Form1.resources
+D:\Documents\Programming\C#\DaluxUninstaller\DaluxUninstaller\obj\Debug\DaluxUninstaller.Properties.Resources.resources
+D:\Documents\Programming\C#\DaluxUninstaller\DaluxUninstaller\obj\Debug\DaluxUninstaller.csproj.GenerateResource.cache
+D:\Documents\Programming\C#\DaluxUninstaller\DaluxUninstaller\obj\Debug\DaluxUninstaller.csproj.CoreCompileInputs.cache
+D:\Documents\Programming\C#\DaluxUninstaller\DaluxUninstaller\obj\Debug\DaluxUninstaller.exe
+D:\Documents\Programming\C#\DaluxUninstaller\DaluxUninstaller\obj\Debug\DaluxUninstaller.pdb
+D:\Documents\Programming\C#\DaluxUninstaller\DaluxUninstaller\obj\Debug\DaluxUninstaller.Uninstalling.resources
